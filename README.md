@@ -42,8 +42,9 @@ while True:
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/4187e5d4-8a90-4ed8-a1a9-c64956e73d85)
-![image](https://github.com/user-attachments/assets/6a3c0820-eb4b-4e95-96a4-6e4eb2102a9c)
+![image](https://github.com/user-attachments/assets/3957c836-f56e-4f52-9a3b-17151c65c617)
+![image](https://github.com/user-attachments/assets/d9188fa9-65ed-4bfd-8164-b721b1176e52)
+
 
 
 ## RESULT
